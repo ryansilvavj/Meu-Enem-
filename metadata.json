@@ -1,0 +1,6 @@
+{
+  "name": "Meu ENEM+",
+  "description": "Plataforma inteligente de preparação para o ENEM com simulados calibrados pela TRI, histórico de resolução detalhado, modo de super-revisão de erros e métricas de desempenho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
